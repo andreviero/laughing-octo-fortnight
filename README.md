@@ -1,4 +1,4 @@
-
+![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg|)
 Barbearia Alura
 Sobre a Barbearia Alura
 
