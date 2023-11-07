@@ -1,4 +1,8 @@
 ![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg|)
+![]![banner](https://github.com/andreviero/laughing-octo-fortnight/assets/145344973/0c5c0d42-db6f-48ef-b95c-8f9c80df8266)
+![](![barba](https://github.com/andreviero/laughing-octo-fortnight/assets/145344973/cc5f6eb0-53e5-466c-9b7c-768457a3f719)
+
+
 Barbearia Alura
 Sobre a Barbearia Alura
 
@@ -57,6 +61,8 @@ ul {
 	width: 20%;
 	margin-right: 15%;
 }
+![](![beneficios](https://github.com/andreviero/laughing-octo-fortnight/assets/145344973/b7b12089-4320-4797-b634-dc9c5a234985)
+
 
 .imagembeneficios {
 	width: 50%;
